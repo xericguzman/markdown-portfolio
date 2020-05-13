@@ -7,31 +7,28 @@ One of the major things we'll be working towards this term (and during your whol
 
 ### Setup
 
-* We'll be making our portfolio in one page, in Markdown. You'll be creating a GitHub repo from scratch and cloning it down, with the following steps:
-  1. Press "New" or "New Repository" on GitHub's page.
-  2. Name it something... good?
-  3. **DO** check the box "Initialize this repository with a README."
-  4. Copy the URL from the new repo's page.
-  5. In `week-1` on your local machine, perform a `git clone [repo url]` command.
-  6. Create a new file called `portfolio.md`.
-  7. `Add`, `commit`, and `push` as you go!
+We'll be submitting this as a REPL, but feel absolutely free to write the code in VS Code instead if you prefer that and have access to it.
+
+How to set up your REPL:
+1. Press the "New REPL" button on [REPL.it](https://www.repl.it).
+2. Choose "JS/HTML/CSS".
+3. Create a new file using the icon of a file wit ha plus simbol (in the upper left of the interface).
+4. Call it whatever you want, but make SURE you end it with a `.md`.
+5. Get Markdowning!
 
 
 ### Requirements
 
-* `commit`, `commit`, `commit`! You need a MINIMUM of 5 commits, but you ought to have more discrete accomplishments during this project than that. Practice thinking in terms of what you're about to do, and, when you've done that, `commit` with a message that you did it.
-* We'll cover the content momentarily, but your markdown file needs to have the following:
-  1. At least one link. This could be to your GitHub user page, to your LinkedIn, to your Twitter account, or some other resource that represents you to the world.
-  2. At least one picture. Make sure it's [SFW](https://en.wikipedia.org/wiki/Not_safe_for_work), but otherwise, anything goes!
-  3. At least one bullet point list.
-  4. At least one numbered list.
+1. At least one link. This could be to your GitHub user page, to your LinkedIn, to your Twitter account, or some other resource that represents you to the world.
+2. At least one picture. Make sure it's [SFW](https://en.wikipedia.org/wiki/Not_safe_for_work), but otherwise, anything goes!
+3. At least one bullet point list.
+4. At least one numbered list.
 
 
 ### Contents
 
 You want to be building towards a portfolio here, but because this is a process, please do not get paralyzed by indecision. We'll be editing this as we go throughout this term!
-
-What a portfolio actually is depends on the person. Has design been your main focus? A gallery would be perfect here. Do you have a background either in code or somewhere that might lead to a code-related job, like sales, or teaching, or management? You might want to highlight that experience with a more resume-like portfolio. Do you have some projects, code or code-related, that you've worked on? A selection of projects (with links!) might be a good choice.
+What a portfolio actually _contains_ depends on the person. Has design been your main focus? A gallery would be perfect here. Do you have a background either in code or somewhere that might lead to a code-related job, like sales, or teaching, or management? You might want to highlight that experience with a more resume-like portfolio. Do you have some projects, code or code-related, that you've worked on? A selection of projects (with links!) might be a good choice.
 
 You can do any combination of this, of course!
 
@@ -40,4 +37,4 @@ You can do any combination of this, of course!
 
 * Have _at least_ one full page of content.
 * Use markdown wherever possible.
-* Get some practice with managing your git repository.
+* Get some practice with your text editing.
