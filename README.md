@@ -4,26 +4,24 @@
 
 One of the major things we'll be working towards this term (and during your whole time here) is having a great portfolio page for you. The first step to this is content--what should go in our portfolio? We'll start figuring that out today, as well as continuing to practice our markdown-git-bash triumvirate of tools.
 
-
 ### Setup
 
-We'll be submitting this as a REPL, but feel absolutely free to write the code in VS Code instead if you prefer that and have access to it.
+We'll be submitting this as a REPL, but feel absolutely free to write the code in a text editor like VS Code instead if you prefer that and have access to it.
 
 How to set up your REPL:
+
 1. Press the "New REPL" button on [REPL.it](https://www.repl.it).
 2. Choose "JS/HTML/CSS".
-3. Create a new file using the icon of a file wit ha plus simbol (in the upper left of the interface).
+3. Create a new file using the icon of a file with a plus symbol (in the upper left of the interface).
 4. Call it whatever you want, but make SURE you end it with a `.md`.
 5. Get Markdowning!
 
-
 ### Requirements
 
-1. At least one link. This could be to your GitHub user page, to your LinkedIn, to your Twitter account, or some other resource that represents you to the world.
+1. At least one link. This could be to your GitHub user page if you have one already, to your LinkedIn, to your Twitter account, to your personal homepage, or some other resource that represents you to the world.
 2. At least one picture. Make sure it's [SFW](https://en.wikipedia.org/wiki/Not_safe_for_work), but otherwise, anything goes!
 3. At least one bullet point list.
 4. At least one numbered list.
-
 
 ### Contents
 
@@ -32,9 +30,8 @@ What a portfolio actually _contains_ depends on the person. Has design been your
 
 You can do any combination of this, of course!
 
-
 ### Goals
 
-* Have _at least_ one full page of content.
-* Use markdown wherever possible.
-* Get some practice with your text editing.
+- Have _at least_ one full page of content.
+- Use markdown wherever possible.
+- Get some practice with your text editing.
