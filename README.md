@@ -2,6 +2,8 @@
 
 In this assignment, you'll create a simple web page built with Markdown that displays information about yourself.
 
+If you ever have any questions about Markdown syntax, feel free to reference the documentation here: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 ### Instructions
 
 1. Start about by forking this repository
