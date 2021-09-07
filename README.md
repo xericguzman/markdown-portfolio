@@ -6,7 +6,7 @@ If you ever have any questions about Markdown syntax, feel free to reference the
 
 ### Instructions
 
-1. Start about by forking this repository
+1. Start by forking this repository
 1. In your version of the repository, edit `README.md` and replace all of the previous content with markdown that contains:
     * Your name as a title
     * At least one picture
