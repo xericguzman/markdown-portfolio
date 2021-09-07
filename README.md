@@ -1,6 +1,7 @@
 # Hi, I'm Eric Guzman
 ___
 
+
 ## This is what *_i_* look like.
 ![alt text][logo]
 
